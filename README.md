@@ -1,16 +1,37 @@
-# React + Vite
+# 👩🏽‍💻 Portfólio - Angélica Oliveira 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<img width="1897" height="908" alt="image" src="https://github.com/user-attachments/assets/7d49e542-8917-4e5e-a4c7-089b0b3fbf2d" />
 
-Currently, two official plugins are available:
+Este é meu portfólio pessoal desenvolvido para apresentar meus projetos, habilidades e informações de contato como desenvolvedora. O site possui layout responsivo, garantindo uma boa experiência em diferentes dispositivos, além de navegação simples e organizada entre as seções de **Início**, **Sobre**, **Projetos** e **Contato**, onde é possível conhecer mais sobre mim, visualizar meus trabalhos e entrar em contato.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Tecnologias utilizadas
 
-## React Compiler
+- React
+- JavaScript
+- Tailwind CSS
+- HTML
+- CSS
+- EmailJS
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🌐 Deploy
 
-## Expanding the ESLint configuration
+Acesse o portfólio online:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔗 https://angelica-oliveira.netlify.app/
+
+
+## ▶️ Como executar o projeto
+
+```bash
+# Clonar o repositório
+git clone https://github.com/Angellica06/angelica-portfolio-v2.git
+
+# Entrar na pasta
+cd angelica-portifolio
+
+# Instalar dependências
+npm install
+
+# Rodar o projeto
+npm run dev
+```
